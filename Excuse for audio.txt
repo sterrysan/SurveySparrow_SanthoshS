@@ -1,2 +1,15 @@
-I thought I recorded Audio, but it didn't sadly.
-I created a detailed documentation in Readme file in GITHUB, to see how it works and how to execute, to mimic the result. Kindly Please look into that.
+# I thought I recorded Audio, but it didn't sadly.
+# Here is What is said in Video.
+ - I decided to use bank churn dataset for this demo
+ - I took two datasets from different sources that you provided in drive.
+ - First I analysed the datasets and found that second dataset has many columns and I removed columns that doesn't contribute to trainining ML model.
+ - Then I matched the colum's names refering first dataset for seemless access.  And I mapped few data like 'Male' to 'M' to make the available datas for a cloumn look similar.
+ - Then I preprocessed the datasets, performed PDA to detect patterns (you can see analysed datas in screenshots) and extracted features.
+ - Used Logistic Regression to train the model.
+ - Got around 80% accuracy.
+ - Then I used Gradio (Similar to Streamlit) for creating user interface for this demo.
+ - We can use gradio API any where and integrate with any interface.
+ - We can use ngrok and custom domain to permanently host as a website.
+
+
+I created a little documentation in Readme file in GITHUB, to see how it works and how to execute, to mimic the result. Kindly Please look into that.
