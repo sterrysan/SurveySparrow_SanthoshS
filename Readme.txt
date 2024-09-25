@@ -1,4 +1,4 @@
-Here I took Two datasets of Bank churns to demonstrate the utilizing multiple datasets to create a scalable ml model.
+Here I took Two datasets of Bank churns to demonstrate the utilizing multiple datasets to create a scalable ml model. I used Google Colab instead Jupiter Notebook.
 After exploring datasets, I did few things as below
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
